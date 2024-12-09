@@ -1,6 +1,8 @@
 package zooAnimales;
 import gestion.Zona;
 
+
+
 public class Animal {
     private int totalAnimales;
     private String nombre;
